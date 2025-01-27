@@ -1,0 +1,43 @@
+*
+{
+    margin: 0;
+    text-align: center;
+}
+
+body
+{
+    background-color: rgba(24, 78, 20, 0.336);
+    height: 100%;
+}
+ul
+{
+    padding-top: 5px;
+}
+li
+{
+    list-style: none;  
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.tareas
+{
+    display: flex;
+    flex-direction: column;
+}
+h1
+{
+    background-color: rgba(0, 0, 0, 0.096);
+    border-bottom: solid 1px;
+    border-top: solid 1px;
+}
+
+button
+{
+    background-color: rgb(209, 212, 219) ;
+}
+
+button:hover
+{
+    background-color: rgb(126, 157, 210) ;
+}
+

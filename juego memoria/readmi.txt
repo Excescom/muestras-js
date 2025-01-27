@@ -1,0 +1,1 @@
+juego de encontrar parejas, tiene 3 dificultades con diferentes tamaño de tablero, es aleatorio, tiene un contador y un tiempo que para cuando terminasg la partida

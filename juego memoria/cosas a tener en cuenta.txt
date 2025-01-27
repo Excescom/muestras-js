@@ -1,0 +1,13 @@
+tener una carpeta con todas las imágenes nombradas por números para que sea más fácil/probar https:loremflickr.com/100/100/random(por lo menos para buscar las imágenes)
+tablero dinámico
+tablero por dificultades
+tener un fondo verde, y cuando se clica que aparezca la imagen  que estaba oculta.
+fácil 4 parejas, media 8 parejas, 12 parejas
+hacer con arrays normales y flex, con un máximo de 4 por línea
+que la animación de ocultar de nuevo sea rápida, para no dar tiempo al jugador a voltear otra imagen mientras
+o deshabilitar mientras se voltean de alguna manera
+cuando clique que devuelva el nombre de la foto con lo que vimos en el otro programa y lo guarde en una variable, 
+si le da clik en otra imagen que es diferente, que haga lo mismo y se de la vuelta, y que se ejecute la función de dar la vuelta para ocultar las 2 imágenes.
+si son iguales que no haga nada y reproduzca el sonidito de una campana
+
+
